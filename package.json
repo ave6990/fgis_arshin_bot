@@ -1,0 +1,21 @@
+{
+  "name": "fgis_arshin_bot",
+  "version": "0.0.1",
+  "description": "Telegram bot provides data from FGIS ARSHIN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "arshin"
+  ],
+  "author": "Aleksandr Ermolaev",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.2"
+  },
+  "type": "module"
+}
